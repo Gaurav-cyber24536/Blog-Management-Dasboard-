@@ -1,0 +1,109 @@
+{
+  "Blogs": [
+    {
+      "title": "React State Management Made Easy: Context API, Classic Redux & Redux Toolkit",
+      "author": "React ReduxToolkit",
+      "content": "React developers today have access to a rich ecosystem of tools. While Redux remains a powerful solution for state management, React Query has revolutionized how we handle server-state and data fetching. Managing state and retrieving data efficiently can be challenging, but these tools help streamline the process and enhance the overall development experience.\n\nRedux simplifies state management by reducing boilerplate code and making your state logic more predictable and maintainable. Once your store is configured, injecting state into components becomes much more straightforward.\n\nSimilarly, React Query simplifies server-state management with minimal setup. It frees you from complex useEffect logic and repetitive loading/error state handling.\nIf you’ve ever struggled with deeply nested useEffect hooks or repeated fetch logic, you’ve likely felt the pain. These tools reduce that friction. Let’s dive in and explore how Redux Toolkit and React Query can improve your development workflow.",
+      "date": "2026-04-12",
+      "tag": "FrontEnd",
+      "id": "7c44"
+    },
+    {
+      "title": "Anthropic Just Released Claude Code Course (And I Earned My Certificate)",
+      "author": "Medium ",
+      "content": "Anthropic just launched their Claude Code in Action course, and I’ve just passed — how about you?The course was easy for me since I’ve been writing about Claude Code since day one, but that doesn’t mean it’s not valuable.If you’re someone who enjoys certifications, this might be the first official Claude Code certification available.\nIt gives you a sense of accomplishment and something tangible to showcase on LinkedIn.\nI added mine to my profile, though I’m not so enthusiastic about badges.",
+      "date": "2026-04-01",
+      "tag": "News",
+      "id": "9eb6"
+    },
+    {
+      "title": "Northern Design Festival is back – and this time, it's bringing its own typeface",
+      "author": "Creative Bloom",
+      "content": "here's a question the organisers of Northern Design Festival get asked every year: why Lancaster? The answer, it turns out, is the whole point.\nRunning from 13–15 May 2026, NDF returns to Kanteena in Lancaster for its third edition – and what began as a grassroots gathering for creatives outside the capital has quietly grown into one of the most genuinely community-led events on the design calendar. No fanfare or posturing... Just three days of brilliant talks, workshops and conversations from a mix of creatives across the industry.\n\nThis year's theme is Heritage, and the organisers have taken that seriously beyond the programme itself. In collaboration with type foundry F37, they've developed a bespoke typeface called Lancer – a name that carries a deliberate double meaning. It nods to Lancaster's medieval roots while referencing the word \"freelancer\", which traces back to knights who weren't bound to a single lord. For a festival built around independent creative culture, it's a fitting metaphor.\n\nLancer draws on traditional Blackletter forms but brings a geometric, contemporary construction to them... something that bridges the past and the present rather than getting too nostalgic. \"We wanted the typeface to feel like a love letter to both the city and the wider creative community,\" the NDF directors explain. \"It reflects where we've come from, but also the freedom and independence that define how many creatives work today.\"",
+      "date": "2026-03-24",
+      "tag": "Festival",
+      "id": "88d2"
+    },
+    {
+      "title": "Total creative freedom: Andy Vella's posters for the Teenage Cancer Trust 2026 concerts",
+      "author": "creativeboom",
+      "content": "The project came about when the Teenage Cancer Trust contacted Andy, who has designed album artwork and posters for The Cure since the 1980s. Taking the iconic Robert Smith photo, silhouetted with his guitar on the Boys Don't Cry single, Andy altered the figure's pose to riff on artwork Jamie Hewlett created for the Teenage Cancer Trust, which is used for its awards, with a guitarist about to smash his instrument.\n\"I thought it would be cool to play on the original vibe. I got my inks and photocopies and collaged a sequence from the original Boys Don't Cry still, and made him almost magician-like, announcing the very special band line-up,\" says Andy.\n\nSix gig posters have been designed, with the graphics adapted across the collateral for the 2026 concert series, to give it a cohesive identity. The background, too, exemplifies Andy's layered, collaged, mish-mashed approach – and his energy.\n\n\"I created it organically from lots of photocopied photos. Cut them, screwed with them, tore them – thus the background was born,\" he says. \"I was after a spontaneous, energetic feel – kinda pop art but with a bit of grunge thrown in. I was after the energy you get from being at gigs.\"",
+      "date": "2026-03-03",
+      "tag": "inspirations",
+      "id": "fac6"
+    },
+    {
+      "id": "7576",
+      "title": "My Father Died at 58, and I Never Knew That He Was Young",
+      "author": "Meduim",
+      "content": "The phone rang from the office attached to our classroom. Hans, my chef instructor, excused himself from lecturing, stepped into his office and closed the door. A moment later, he returned and called my name, “Arpad, there’s a call for you.” I rose, went to the office door. Hans placed a hand on my shoulder and gave it a pat, “Please close the door and take your time.”\nAt his desk, I raised the receiver, “Hello, this is Arpad.”\nThe voice on the other end of the line identified himself as an RCMP Constable. He was direct and delivered a succinct message. I mumbled a “Thank you” and returned the receiver to its cradle. The news was not unexpected, but at the same time, it seemed impossible. It was 1994, I was 21 years old, and my father had died a few hours earlier.",
+      "date": "2028-06-15",
+      "tag": "Health"
+    },
+    {
+      "id": "45b5",
+      "title": "The Contracts You Never Read But signed: LLM Terms of (Ab)Use",
+      "author": "Medium",
+      "content": "Researchers analyzed the terms of use for Claude, ChatGPT, Gemini, Copilot, Le Chat, and DeepSeek\nThey found that every single one disclaims quality, shifts all liability to users, and reserves the right to change the service without meaningful notice.\nAll providers train on your data by default; opting out is your burden, and in some cases opting out doesn’t even fully work.\nUsers are held solely responsible for both inputs AND outputs, despite having zero control over how the underlying model generates those outputs.\nThe terms likely violate multiple provisions of EU consumer protection law, including the Unfair Contract Terms Directive and the Unfair Commercial Practices Directive.\nThe paper provides concrete policy recommendations and a reusable 59-question codebook for analyzing terms of any digital service.\nFriends link for everyone: Follow the author, publication, and clap. Join Medium to support other writers too! Cheers\n\nYour Toaster Doesn’t Work and It’s Your Fault\n",
+      "date": "2028-03-03",
+      "tag": "Technology"
+    },
+    {
+      "title": "HTMX vs React: We Built the Same Feature Twice — One Took 3 Hours, One Took 3 Days",
+      "author": "Medium",
+      "content": "The ticket looked so harmless that I almost smiled when I picked it up.\nAdd a resend OTP button. Show a countdown. Disable the button until the timer ends. Hide it after verification. That was the whole feature.\nThe kind of task every engineer has seen, the kind of task every engineer underestimates, and the kind of task that quietly ruins a perfectly good day.\n\nIf you build frontend for a living, you already know this feeling. A feature sounds small in the meeting, stays small in the ticket, and then somehow grows teeth the moment you touch the code.\nYou tell yourself it is just one button. By the time you are done, it feels like you rebuilt half the UI to make that one button behave.\n\nThat is exactly what happened to me.\nWe built the same feature twice. The first time in React. The second time in HTMX. One version dragged across three days of stop-start progress, second-guessing, and small bugs that refused to die. The other was done so fast it almost felt insulting.\nThat comparison stayed in my head for one reason: it exposed a mistake that many of us keep making.\nThe Feature Was Simple, But The Stack Was Not",
+      "date": "2027-04-05",
+      "tag": "React js",
+      "id": "597a"
+    },
+    {
+      "id": "0486",
+      "title": "'You come for the food. You return for Bonnie.",
+      "author": "Creative Bloom",
+      "content": "The steak was excellent, the sauce was incredible, and the mashed potatoes had so much butter that I thought I was back home in the South. But Bonnie made the night. She was blunt and opinionated in a way that only career waiters can be. She steered us toward the right wine, warned my dad away from an overambitious appetiser, and punctuated the meal with stories that made the dining room feel intimate. Her casual confidence set the tone. I'm convinced she did more than deliver good service—she helped my parents feel at ease about me moving to the \"big city\".\n\nWe went for the food. We left remembering Bonnie. That’s the distinction between a good meal and a memorable one. And it's the same distinction between delivering creative work and designing the client relationship.\n\nYou come for the food\nIn our world, the \"food\" is the strategy, the brand platform, the campaign, the experience. It's the craft. It's what clients hire us to make. It needs to be thoughtful, differentiated, and technically sound. Without it, nothing else matters.\n\nBut what's delivered is only one part of what's remembered.\n\nIn hospitality, you can't compensate for bad food with charm. But you also can't assume that great food speaks entirely for itself. The best restaurants understand the front-of-house experience. How you're greeted, guided, and cared for is not a decorative layer on top of the cuisine. It is part of the product.\n\nThe same is true in creative partnerships. The work matters. But how the work is delivered, discussed, challenged, and evolved is what determines whether a client engagement feels transactional or transformative.\n\nFront of house is a design discipline\nGreat restaurants don't leave the dining experience to chance. They design it.\n\nThe lighting is calibrated. The pacing between courses is intentional. The host knows when to lean in and when to give space. The server reads the table. Celebration or business dinner, first date or family reunion, and adjust accordingly.\n\nFront-of-house is not administrative. It's strategic.\n\nAt Athletics, we think about client experience the same way. Relationship design is not a soft skill layered atop hard thinking. It is a system. It is architecture. It is a deliberate set of choices about how clients move through a partnership with us.\n\nHow are they onboarded? How do we establish shared language? How do we create visibility into our process without overwhelming them? When do we push? When do we listen? Where do we introduce surprise and delight?\n\nThese are not accidental outcomes. They are designed.",
+      "date": "2025-04-03",
+      "tag": "Design"
+    },
+    {
+      "id": "97c3",
+      "title": "Will learn React Js",
+      "author": "Webskitters Academy",
+      "content": "Complete React JS course from scratch",
+      "date": "2222-04-04",
+      "tag": "Study"
+    },
+    {
+      "title": "Why senior UX designers are struggling in 2026",
+      "author": "Medium 2",
+      "content": "In this article:\n\nMost senior designers were shielded from defining strategy — and never realized it\nThe 2026 hiring market is exposing that gap: 56% of companies are hiring senior talent, but for a different kind of senior\nUnshielding is a practice, not a course — and it starts before the brief arrives\nI remember the exact meeting.\n\nIt was a product strategy session — the kind where the PM gathers stakeholders before design begins. I’d been a designer for almost a decade. I had the title, the track record, the confidence. When the room turned to me and asked what I thought the experience strategy should be, I had an answer ready.\n\nHalfway through delivering it, something shifted.\n\nI wasn’t drawing from strategy. I was drawing from the brief the PM had handed me the week before.\n\nI had shaped the ideas. Pushed back on some things, refined others, added nuance. But the original frame — the business problem, the customer segment, the success metric — none of that was mine. It had…\n\n",
+      "date": "2026-03-25",
+      "tag": "Design",
+      "id": "042a"
+    },
+    {
+      "id": "b0ee",
+      "title": "Breaking News Live Update: Cabinet clears UDAN 2.0 with Rs 28,840 crore outlay",
+      "author": "The Ecomerce Times",
+      "content": "Breaking News Live Update: The Union Cabinet has approved the revamped UDAN 2.0 scheme with a total outlay of Rs 28,840 crore, giving a major push to regional air connectivity with plans to develop 100 new airports and 200 helipads across the country, Information and Broadcasting Minister Ashwini Vaishnaw said on Wednesday.\n\nFinance Minister Nirmala Sitharaman emphasized the crucial role of micro, small, and medium enterprises (MSMEs), farmers, and cooperatives in creating employment and sustaining economic development. Speaking in the Lok Sabha, she noted that empowering these sectors is essential for inclusive growth, as they form the backbone of India’s economy, support rural livelihoods, and generate opportunities across various regions and industries.",
+      "date": "2026-03-25",
+      "tag": "News"
+    },
+    {
+      "id": "c716",
+      "title": "Why Don’t My Students Want to Talk About the War?",
+      "author": "Medium",
+      "content": "There are a lot of weird things about the Trump administration’s war with Iran, but one of the strangest is that my students don’t really want to talk about it.\n\nThis is quite unusual. Though the students at the high school where I teach are not always interested in the world around them, they usually perk up when there’s the threat of war. They get the sense that they’re living through an important historical event, and some of the students worry that, if things go a certain way, they’re at risk of being drafted. My students usually have a lot of questions as they try to wrap their heads around the ways that their world might be changing.\n\nI remember back in 2020, when Trump assassinated the Iranian Quds Force commander Qassem Soleimani, and it felt like our two countries were on the brink of wider hostilities. Teachers held a session during extracurricular time for students to come and ask questions, and so many kids showed up that we ran out of seats.\n\nI thought we might have the same experience when we held a similar session a few days into the current American bombing campaign in Iran, but I was surprised when a modest number of students showed up. In my classes, too, especially after the initial day of…\n\n",
+      "date": "2026-03-25",
+      "tag": "Education"
+    },
+    {
+      "id": "9532",
+      "title": "How English Might Sound If It Were ‘Pure’",
+      "author": "Medium",
+      "content": "English is just badly pronounced French’.\n\nOr at least that’s what Georges Clemenceau once famously claimed.\n\nThough the former French prime minister was almost certainly taking the piss, his claim is not entirely without merit. As roughly 30% of English words come from French, English can sometimes feel like a Germanic language masquerading as a Romance one.\n\nThanks to so many English and French words being the same, native English speakers have a leg up when it comes to learning French. Not only are words like information, direction and passion identical, but even in cases where the words aren’t quite the same, it doesn’t take a genius to figure out what similaire or identique mean.\n\nAnd when you consider the fact that the French word humour was borrowed from the English word humour, which itself comes from the French word humeur, it becomes clear just how close the languages are.\n\nBut what if English and French had literally no words in common?\n\nThat’s the idea behind Anglish, which is basically a version of English stripped of all French…\n\n",
+      "date": "2026-04-13",
+      "tag": "Education"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
